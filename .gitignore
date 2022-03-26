@@ -1,0 +1,11 @@
+.idea
+*.iml
+/out
+*.xml
+secret.txt
+
+# comment with hastag
+
+
+
+
